@@ -2,6 +2,7 @@
 Demo simulación de una partida multijugador en el que nuestro oponente es una inteligencia artificial muy primaria.
 
 INSTRUCCIONES:
+
   ·Comienza jugando el jugador LOCAL es decir nosotros.
   ·Para soltar cartas al tablero nos dirigimos a cualquier parte de la pantalla que no sea el tablero, para que se nos muestren las cartas de nuestra mano.
   ·Clickando sobre las cartas de la mano soltaremos las cartas al tablero.
